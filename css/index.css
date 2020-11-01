@@ -1,0 +1,91 @@
+<html>
+     <head>
+     <link rel="stylesheet" href="css/reset.css">
+     <link rel="stylesheet" href="css/style.css">
+     <script src="https://code.jquery.com/jquery-3.5.1.js"
+          integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+     <script src="js/index.js"></script>
+     </head>
+
+     <body>
+          <div class= "text1">
+               <img src="img/text1.png">
+          </div>
+          <div class= "text2">
+               <img src="img/text2.png">
+          </div>
+          <div class= "text3">
+               <img src="img/text3.png">
+          </div>
+          <div class= "text4">
+               <img src="img/text4.png">
+          </div>
+          <div class= "text5">
+               <img src="img/text5.png">
+          </div>
+          <div class= "text6">
+               <img src="img/text6.png">
+          </div>
+          <div class= "text7">
+               <img src="img/text7.png">
+          </div>
+          <div class= "text8">
+               <img src="img/text8.png">
+          </div>
+          <div class= "text9">
+               <img src="img/text9.png">
+          </div>
+          <div class= "text10">
+               <img src="img/text10.png">
+          </div>
+
+
+     <br>
+          <button class="glass"></button>
+     </br>
+          <div class= "glass">
+               <img src="img/img1.png">
+          </div>
+          <div class= "title">
+               <img src="img/img2.png">
+          </div>
+          <div class= "knife1">
+               <img src="img/img3.png">
+          </div>
+          <div class= "knife2">
+               <img src="img/img4.png">
+          </div>
+          <div class= "knife3">
+               <img src="img/img5.png">
+          </div>
+          <div class= "knife4">
+               <img src="img/img6.png">
+          </div>
+          <div class= "knife5">
+               <img src="img/img7.png">
+          </div>
+          <div class= "knife6">
+               <img src="img/img8.png">
+          </div>
+          <div class= "knife7">
+               <img src="img/img9.png">
+          </div>
+          <div class= "knife8">
+               <img src="img/img10.png">
+          </div>
+          <div class= "knife9">
+               <img src="img/img11.png">
+          </div>
+          <div class= "knife10">
+               <img src="img/img12.png">
+          </div>
+          <div class= "knife11">
+               <img src="img/img13.png">
+          </div>
+          <div class= "knife12">
+               <img src="img/img14.png">
+          </div>
+     </body>
+
+</html>
+    

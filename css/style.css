@@ -1,0 +1,200 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #81060A;
+    position: absolute;
+    top: 0;
+    left :0;
+    overflow-y: hidden; overflow-x: hidden;
+}
+
+.text1 {
+    width: 7%;
+    height: 8%;
+    position: absolute;
+    top: 10%;
+    left: 3%;
+}
+
+.text2 {
+    width: 7%;
+    height: 8%;
+    position: absolute;
+    top: 24%;
+    left: 3%;
+}
+
+.text3 {
+    width: 9%;
+    height: 8%;
+    position: absolute;
+    top: 37%;
+    left: -50%;
+}
+
+.text4 {
+    width: 9%;
+    height: 8%;
+    position: absolute;
+    top: 50%;
+    left: 2%;
+}
+
+.text5 {
+    width: 9%;
+    height: 8%;
+    position: absolute;
+    top: 64%;
+    left: 2%;
+}
+
+.text6 {
+    width: 9%;
+    height: 8%;
+    position: absolute;
+    top: 76%;
+    left: 2%;
+}
+
+.text7 {
+    width: 9%;
+    height: 8%;
+    position: absolute;
+    top: 10%;
+    right: 3%;
+}
+
+.text8 {
+    width: 9%;
+    height: 8%;
+    position: absolute;
+    top: 24%;
+    right: 3%;
+}
+
+.text9 {
+    width: 9%;
+    height: 8%;
+    position: absolute;
+    top: 37%;
+    right: 3%;
+}
+
+.text10 {
+    width: 13%;
+    height: 5%;
+    position: absolute;
+    bottom: 17%;
+    right: 3.5%;
+}
+
+
+    .glass {
+        width: 37%;
+        position: absolute;
+        bottom: 0%;
+        left: 29%;
+    }
+
+    .title {
+        width: 25%;
+        position: absolute;
+        bottom: 4%;
+        right: 3%;
+    }
+
+    .knife1 {
+        width: 3%;
+        height: 15%;
+        position: absolute;
+        top: -50%;
+        left: 46%;
+    }
+
+    .knife2 {
+        width: 8%;
+        height: 5%;
+        position: absolute;
+        top: 12%;
+        left: 38.5%;
+    }
+
+    .knife3 {
+        width: 12%;
+        height: 6%;
+        position: absolute;
+        top: 26%;
+        left: 33%;
+    }
+
+    .knife4 {
+        width: 14%;
+        height: 15%;
+        position: absolute;
+        top: 40%;
+        left: -50%;
+    }
+
+    .knife5 {
+        width: 12%;
+        height: 9%;
+        position: absolute;
+        top: 44%;
+        left: 34%;
+    }
+
+    .knife6 {
+        width: 6.7%;
+        height: 5%;
+        position: absolute;
+        top: 46%;
+        left: 40%;
+    }
+
+    .knife7 {
+        width: 2.6%;
+        height: 26%;
+        position: absolute;
+        top: 150%;
+        left: 46%;
+    }
+
+    .knife8 {
+        width: 7%;
+        height: 9%;
+        position: absolute;
+        top: 46%;
+        right: 44.7%;
+    }
+
+    .knife9 {
+        width: 11%;
+        height: 15%;
+        position: absolute;
+        top: 44%;
+        right: 39%;
+    }
+
+    .knife10 {
+        width: 15%;
+        height: 3%;
+        position: absolute;
+        top: 40%;
+        right: -60%;
+    }
+
+    .knife11 {
+        width: 11%;
+        height: 9%;
+        position: absolute;
+        top: 26%;
+        right: 39%;
+    }
+
+    .knife12 {
+        width: 6.6%;
+        height: 10%;
+        position: absolute;
+        top: 13%;
+        right: 44.5%;
+    }
